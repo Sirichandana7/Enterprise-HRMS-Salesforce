@@ -66,3 +66,28 @@ The objective of this project is to centralize HR operations using Salesforce an
 • Mobile accessibility
 
 • Reduced manual work
+
+**Business Process Diagram**
+Candidate
+  ↓
+Recruitment
+  ↓
+Interview
+  ↓
+Offer
+  ↓
+Onboarding
+  ↓
+Employee
+  ↓
+Attendance
+   ↓
+ Leave
+   ↓
+Performance
+   ↓
+Training
+   ↓
+Promotion
+   ↓
+Exit Process
