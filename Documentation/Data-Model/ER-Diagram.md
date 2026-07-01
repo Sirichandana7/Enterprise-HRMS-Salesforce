@@ -15,34 +15,7 @@ Master-Detail Relationships
 
 **HRMS Enterprise Data Model**
 
-Company
-│
-├── Location
-│      │
-│      ├── Department
-│      │       │
-│      │       ├── Designation
-│      │       │       │
-│      │       │       ├── Employee
-│      │       │       │      │
-│      │       │       │      ├── Emergency Contact
-│      │       │       │      ├── Employee Document
-│      │       │       │      ├── Attendance
-│      │       │       │      ├── Leave Request
-│      │       │       │      ├── Performance Review
-│      │       │       │      ├── Training
-│      │       │       │      ├── Asset
-│      │       │       │      ├── Payroll (Simulation)
-│      │       │       │      ├── Exit Process
-│      │       │       │      └── ID Card
-│      │       │
-│      │       └── Recruitment
-│      │              │
-│      │              ├── Candidate
-│      │              ├── Interview
-│      │              ├── Offer
-│      │              ├── Onboarding
-│      │              └── Background Verification
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6256e0f8-923c-4334-a18f-b258cafbaea0" />
 
 
 **Core Objects**
